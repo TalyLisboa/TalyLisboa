@@ -2,7 +2,7 @@
 
 ###
 
-   ![Naruto](https://github.com/TalyLisboa/Jedai_Talita_Lisboa_ChatBot_Imersao/blob/main/naruto.gif)
+   ![Naruto](https://pa1.narvii.com/6317/752c734a328a55f2b7fa7f85a137ef6f2716155e_hq.gif)
 
 
 ###

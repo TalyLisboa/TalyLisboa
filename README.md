@@ -1,4 +1,4 @@
-### Fala! Bem vindo(a) ao meu perfil. Sou a Talita Lisboa, sou nova por aqui, estou me ajeitando. 🚀
+### Fala! Bem vindo(a) ao meu perfil. Sou a Talita Lisboa, nova por aqui, estou me ajeitando. 🚀
 
 ###
 

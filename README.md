@@ -1,8 +1,14 @@
+![Taly's Mockup](C:\Users\talyk\Downloads\markdown\image\mockupimage.png)
+
+
+
 ### Fala! Bem vindo(a) ao meu perfil. Sou a Talita Lisboa, nova por aqui, estou me ajeitando. 🚀
 
 ###
 
-   ![Naruto](https://pa1.narvii.com/6317/752c734a328a55f2b7fa7f85a137ef6f2716155e_hq.gif)
+   ![bb8](
+    https://media.giphy.com/media/dsMbG3neX0tdjcxD6E/giphy.gif?cid=ecf05e476cagbeori5x9arrnc1k9qn7uour6vytj6d7rsr8q&ep=v1_stickers_search&rid=giphy.gif&ct=s
+   )
 
 
 ###
@@ -14,7 +20,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![Taly's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalyLisboa&show_icons=true&theme=dracula)
-
-
-### Fã de Anime!🤩
+### <Fã de anime,starwars e hq's>

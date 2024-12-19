@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Dev+Full+Stack;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil+Git!;Hello!+Welcome+to+my+GitHub+profile!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AEGitHub%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;%C2%A1Hola!+Bienvenido+a+mi+perfil+en+GitHub" alt="Typing SVG" /></a>
 </div>
 
 # 💫 Sobre Mim
 
-<img align="right" width="300px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" width="250px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ### 👩‍💻 Desenvolvedora Full Stack & Engenheira de Software em formação
 
@@ -59,7 +59,7 @@ const projects = {
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/CAIgh8LKFnQplSngZX/giphy.gif" width="200"/>
+  <img src="https://tenor.com/pt-BR/view/hola-gif-193781612806979389" width="200"/>
   <br>
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </div>

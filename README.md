@@ -59,7 +59,7 @@ const projects = {
 
 <div align="center">
   <br>
-  <img align="center" width="250px" src="https://tenor.com/pt-BR/view/hola-gif-193781612806979389"/>
+  <img align="center" width="250px" src="https://tenor.com/pt-BR/view/snk-attack-on-titan-shingeki-gif-22101093"/>
   <br>
   <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
 </div>

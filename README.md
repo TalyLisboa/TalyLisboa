@@ -59,9 +59,9 @@ const projects = {
 
 <div align="center">
   <br>
-  <img align="center" width="250px" src="https://tenor.com/pt-BR/view/snk-attack-on-titan-shingeki-gif-22101093"/>
+  <img align="center" width="250px" src="https://giffiles.alphacoders.com/114/114951.gif"/>
   <br>
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+  <i>"Quando lutar, lute para vencer. É assim que eu vivi e é assim que eu continuarei vivendo." - Mikasa</i>
 </div>
 
 ---

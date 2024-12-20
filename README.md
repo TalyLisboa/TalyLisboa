@@ -44,7 +44,12 @@ const projects = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalyLisboa&theme=tokyonight" alt="Contribuition Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalyLisboa&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
+
+## 🏢 Organizações:
+
+- [Nova Organização - https://github.com/VenusDesenvolvimento ](#) *(Atualizado)*
 
 ## 🤝 Vamos nos Conectar!!
 
@@ -66,3 +71,4 @@ const projects = {
 
 ---
 ⭐️ From [talylisboa](https://github.com/talylisboa)
+

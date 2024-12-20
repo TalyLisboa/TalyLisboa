@@ -43,7 +43,6 @@ const projects = {
 ## 🌟 Contribuições:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalyLisboa&theme=tokyonight" alt="Contribuition Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalyLisboa&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
 

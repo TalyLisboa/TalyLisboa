@@ -13,7 +13,7 @@
 - 🎯 Objetivo: Desenvolver soluções que impactem positivamente a vida das pessoas
 - 🌟 Fã de animes e mangás nas horas vagas
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas:
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalyLisboa&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalyLisboa&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🎯 Projetos em Destaque
+## 🎯 Projetos em Destaque:
 
 ```typescript
 const projects = {
@@ -40,13 +40,13 @@ const projects = {
 }
 ```
 
-## 🌟 Contribuições
+## 🌟 Contribuições:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalyLisboa&theme=tokyonight" alt="Contribuition Stats"/>
 </div>
 
-## 🤝 Vamos nos Conectar!
+## 🤝 Vamos nos Conectar!!
 
 <div align="left">
   <a href="mailto:talitalisboapiccolo@gmail.com">

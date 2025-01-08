@@ -6,7 +6,7 @@
 
 <img align="right" width="250px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-### 👩‍💻 Desenvolvedora Front End com conhecimentos sólidos em Back End & Engenheira de Software em formação
+### 👩‍💻 Desenvolvedora Front End e Back End com conhecimentos sólidos em Back End & Engenheira de Software em formação
 
 - 🌸 Apaixonada por tecnologia, inovação e cultura japonesa
 - 📚 Sempre em busca de novos conhecimentos e desafios

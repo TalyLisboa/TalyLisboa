@@ -36,12 +36,6 @@
 - **CI/CD**: GitHub Actions para testes automatizados e deploy
 - **Teste**: Unit tests, Widget tests (Flutter), Jest e React Testing Library (React)
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalyLisboa&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalyLisboa&layout=compact&theme=tokyonight"/>
-</div>
-
 ## 🎯 Projetos em Destaque:
 ```typescript
 const projects = {

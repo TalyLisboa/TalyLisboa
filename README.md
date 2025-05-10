@@ -50,9 +50,6 @@ const projects = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalyLisboa&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
 
-## 🏢 Organizações:
-- [Nova Organização - https://github.com/VenusDesenvolvimento ](#) *(Atualizado)*
-
 ## 🤝 Vamos nos Conectar!!
 <div align="left">
   <a href="mailto:talitalisboapiccolo@gmail.com">

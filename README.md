@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Talita "Tatá" Lisboa 👋</h1>
+<h1 align="center">Olá! Eu sou a Tatá Lisboa 👋</h1>
 
 <p align="center">
   <b>Desenvolvedora Mobile · Flutter & Dart · Estudante de Engenharia de Software</b><br>
@@ -70,7 +70,7 @@ Quer me conhecer de um jeito mais imersivo? Eu construí minha própria apresent
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Idiomas:** Português (nativo) · Inglês (B2 — EF SET)
+**Idiomas:** · Inglês (B2 — EF SET)
 
 ---
 
@@ -103,7 +103,6 @@ App enterprise para técnicos de campo, construído praticamente do zero em Flut
 ## 🌱 Comunidade & Voluntariado
 
 - 💙 Voluntária nos **GDG Santos** e **GDG Cloud São Paulo** (Google Developer Groups) — eventos como o *Build with AI*. Acredito que conhecimento só cresce quando é compartilhado;
-- 🎤 Preparando minha **primeira palestra técnica** — frio na barriga e "não vejo a hora" em proporções iguais;
 - 🏗️ Antes da tecnologia: **3 anos como voluntária na construção de templos** — capacete, EPI e trabalho em altura. Foi lá que aprendi disciplina, processo e que nada grande se constrói sozinho.
 
 ---
@@ -121,5 +120,5 @@ App enterprise para técnicos de campo, construído praticamente do zero em Flut
 ---
 
 <p align="center">
-  <i>"Curiosa, determinada e apaixonada por tecnologia — gosto de aprender, de resolver problemas<br>e de trabalhar ao lado de pessoas que querem construir coisas relevantes."</i> ✨
+  <i>"Curiosa, determinada e apaixonada por tecnologia — gosto de aprender, de resolver problemas<br>e de trabalhar ao lado de pessoas que querem construir coisas inovadoras."</i> ✨
 </p>

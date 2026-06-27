@@ -22,7 +22,6 @@
 - 🎓 Estudante de **Engenharia de Software** (2024–2028);
 - 🧩 Comecei na tecnologia em **2014** (Técnico em Informática — SENAI), explorei outras áreas e, em **2021**, voltei de vez — porque vocação não tem como ignorar;
 - 🔍 Meu superpoder é a **curiosidade**: dificilmente me contento com uma resposta superficial. Se tem um bug difícil na sala, há uma boa chance de eu estar envolvida na investigação;
-- 🏛️ O projeto de rastreamento de equipes em campo do qual participei recebeu uma **Moção de Congratulações da Câmara Municipal de Itapetininga** pelo impacto tecnológico na região;
 - 🎸 Fora do código: rock, anime e boas conversas. Sonhos na fila: conhecer o Japão 🇯🇵 e visitar a NASA 🚀
 
 ---

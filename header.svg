@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tatá Lisboa — Engenheira de Software · Mobile, Front-end e Design · Tecnologia para aviação civil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1426"/>
+      <stop offset="1" stop-color="#13284A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#2F7BD8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#2F7BD8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DB8E8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8DB8E8" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DB8E8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8DB8E8" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8DB8E8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <style>
+    .t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .m { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .in1 { animation: up .9s ease-out .1s both; }
+    .in2 { animation: up .9s ease-out .35s both; }
+    .in3 { animation: up .9s ease-out .6s both; }
+    .in4 { animation: up .9s ease-out .85s both; }
+    @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    .route { stroke-dasharray: 6 10; animation: flow 1.6s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -32; } }
+    .blink { animation: blink 1.8s ease-in-out infinite; }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+    @media (prefers-reduced-motion: reduce) {
+      .in1, .in2, .in3, .in4, .route, .blink { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+
+    <!-- Radar -->
+    <g transform="translate(1010 150)">
+      <circle r="44" fill="none" stroke="#8DB8E8" stroke-opacity="0.22"/>
+      <circle r="88" fill="none" stroke="#8DB8E8" stroke-opacity="0.16"/>
+      <circle r="132" fill="none" stroke="#8DB8E8" stroke-opacity="0.10"/>
+      <path d="M-140 0H140M0 -140V140" stroke="#8DB8E8" stroke-opacity="0.10"/>
+      <g>
+        <path d="M0 0 L132 0 A132 132 0 0 0 114.3 -66 Z" fill="url(#sweep)"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </g>
+      <circle cx="52" cy="-58" r="3.5" fill="#8DB8E8">
+        <animate attributeName="opacity" values="0;1;0" dur="6s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-70" cy="44" r="3.5" fill="#8DB8E8">
+        <animate attributeName="opacity" values="0;1;0" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Rota de voo -->
+    <path id="route" d="M600 268 C 760 258, 850 92, 1210 44" fill="none" stroke="#8DB8E8" stroke-opacity="0.35" stroke-width="2" class="route"/>
+    <g>
+      <path d="M14 0 L4 -2 L-2 -12 L-6 -12 L-3 -2 L-10 -2 L-13 -6 L-16 -6 L-14 0 L-16 6 L-13 6 L-10 2 L-3 2 L-6 12 L-2 12 L4 2 Z" fill="#F2F4F7"/>
+      <animateMotion dur="10s" repeatCount="indefinite" rotate="auto" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+        <mpath href="#route"/>
+      </animateMotion>
+    </g>
+
+    <!-- Texto -->
+    <g class="t">
+      <text x="64" y="92" class="m in1" font-size="15" letter-spacing="3" fill="#8DB8E8">FLUTTER · DART · FIREBASE · AVIAÇÃO CIVIL</text>
+      <text x="62" y="158" class="in2" font-size="62" font-weight="700" fill="#F2F4F7">Tatá Lisboa</text>
+      <text x="64" y="200" class="in3" font-size="24" fill="#C3CFDE">Engenheira de Software · Mobile, Front-end &amp; Design</text>
+      <g class="in4">
+        <rect x="64" y="226" width="372" height="36" rx="18" fill="#8DB8E8" fill-opacity="0.12" stroke="#8DB8E8" stroke-opacity="0.35"/>
+        <circle cx="86" cy="244" r="5" fill="#4ADE80" class="blink"/>
+        <text x="102" y="250" class="m" font-size="15" fill="#E3ECF7">em voo: SkyEDB Pilot · redesign</text>
+      </g>
+    </g>
+  </g>
+</svg>

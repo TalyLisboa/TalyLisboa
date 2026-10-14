@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="divisor">
+  <defs>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="0" y1="18" x2="1200" y2="18">
+      <stop offset="0" stop-color="#2F7BD8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2F7BD8" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#2F7BD8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 18H1200" stroke="url(#line)" stroke-width="1.5" stroke-dasharray="6 8"/>
+  <g>
+    <path d="M10 0 L3 -1.5 L-1.5 -8.5 L-4.5 -8.5 L-2 -1.5 L-7 -1.5 L-9 -4.5 L-11 -4.5 L-10 0 L-11 4.5 L-9 4.5 L-7 1.5 L-2 1.5 L-4.5 8.5 L-1.5 8.5 L3 1.5 Z" fill="#2F7BD8"/>
+    <animateTransform attributeName="transform" type="translate" from="-20 18" to="1220 18" dur="14s" repeatCount="indefinite"/>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tatá Lisboa — Engenheira de Software · Mobile, Front-end e Design · Tecnologia para aviação civil" width="100%">
+  <img src="./header.svg" alt="Tatá Lisboa — Engenheira de Software · Mobile, Front-end e Design · Tecnologia para aviação civil" width="100%">
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@ cinematográficos, dark mode e navegação por teclado, tudo em um único arquiv
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalyLisboa&theme=tokyo-night&hide_border=true&bg_color=0A1426&color=8DB8E8&line=2F7BD8&point=f59e0b&area=true&custom_title=Gr%C3%A1fico%20de%20commits" alt="Gráfico de commits" width="92%">
 </p>
 
-<img src="./assets/divider.svg" alt="" width="100%">
+<img src="./divider.svg" alt="" width="100%">
 
 <p align="center">
   <i>"Curiosa, determinada e apaixonada por tecnologia — gosto de aprender, de resolver problemas<br>e de trabalhar ao lado de pessoas que querem construir coisas inovadoras."</i> ✨
